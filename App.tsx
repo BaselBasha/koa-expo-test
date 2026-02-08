@@ -22,7 +22,7 @@ WebBrowser.maybeCompleteAuthSession();
 
 // ─── Google Client IDs ───
 // Web client ID from Google Cloud Console (same one the backend uses)
-const GOOGLE_WEB_CLIENT_ID = '292549721150-7dbvq9itedk7fgvc154llclttm6sc2ur.apps.googleusercontent.com';
+const GOOGLE_WEB_CLIENT_ID = '';
 // For native builds, create separate iOS/Android OAuth client IDs in Google Cloud Console
 const GOOGLE_IOS_CLIENT_ID = ''; // TODO: Add iOS client ID
 const GOOGLE_ANDROID_CLIENT_ID = ''; // TODO: Add Android client ID
